@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    background-color: rgb(117, 191, 255);
+    height: 100px;
+    padding: 20px 8px 10px 10px; /*first number is top to bottom and second number is left to right*/
+    /* or 10px 5px 8px 12px = top, right, bottom, left*/
+}
+h1, h2, h3, h4, h5, h6, p{
+    font-family: monospace;
+    text-align: center;
+}
+
+p{
+    color:rgb(255, 255, 255);
+    font-size: 50px;
+    
+
+}
+div{
+    width: 150px;
+    height: 150px;
+    border: 5px solid rgb(230, 8, 193);
+    margin: 8px;
+    border-radius: 6px 6px 0px 0px;
+}
+img {
+    width: 100%;
+    height: 50%;
+    object-fit: cover;
+    border-radius: 6px 6px 0px 0px;
+}

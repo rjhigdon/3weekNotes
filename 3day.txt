@@ -1,0 +1,6 @@
+input typ = text EX: 'inputs are self closing tags. so are images.; type shoes what the user is expected to do with this. the "enter name....' is for disapearing once the user starts typing"
+
+input type radio ex: gives us an example of txt label element over for our interacable element. -> label is FOR the am label and put AM on the screen
+    labels get suction cupped
+
+input type checkbox
