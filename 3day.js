@@ -348,14 +348,8 @@ Callback functions are functions that we don’t call right away
 Instead, they’re passed in as arguments so the program can call them later
 Let’s break down the syntax in button.addEventListener
 Ex: */
-button.addEventListener(
-  'click',
-
-  () => {
-    alert('Stop clicking me!');
-  }
-);
-
+button.addEventListener('click',() => {alert('Stop clicking me!');});
+  
 //OR
 
 const showAlert = () => {
